@@ -1,7 +1,7 @@
 public class Application {
     /**
      * This class contains a main method that allows you to manually test the CombineStrings lab functionality.
-     * No changes test cases.
+     * No .
      * All implementation lass.
      *
      * The Lab.combine method should return the combination of two Strings. (eg "string1"+"string2"="string1string2")
